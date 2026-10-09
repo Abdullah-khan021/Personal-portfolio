@@ -1,0 +1,371 @@
+
+@media only screen and (max-width: 400px){
+
+    .nav-bar{
+        height: 60px;
+        padding: 0px 15px;
+        justify-content: space-between;
+    }
+    .nav-bar .name{
+        position: static;
+        left: auto;
+    }
+    .name{
+        font-size: 20px;
+    }
+    .nav-buttons{
+        display: none;
+    }
+    .nav-contact{
+        height: 30px;
+        width: 100px;
+    }
+    .nav-bar .nav-contact{
+        position: static;
+        right: auto;
+    }
+    .nav-contact a{
+        font-size: 11px;
+    }
+    .container-box{
+        padding: 0px 15px;
+    }
+    .container{
+        height: auto;
+        padding: 0px;
+        display: flex;
+        flex-direction: column;
+    }
+    .items{
+        height: auto;
+        width: 100%;
+        padding: 40px 0px;
+    }
+    .items p{
+        height: auto;
+        font-size: 12px;
+    }
+    .items h1{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+        font-size: 45px;
+        line-height: 48px;
+    }
+    .items .p1{
+        height: auto;
+        width: 100%;
+        margin-top: 25px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .work{
+        height: auto;
+        width: 100%;
+        margin-top: 30px;
+        gap: 15px;
+    }
+    .work .button1{
+        width: 130px;
+        height: 35px;
+    }
+    .work .button2{
+        width: 110px;
+        height: 20px;
+    }
+    .image{
+        width: 100%;
+        height: 400px;
+    }
+    .image .details{
+        height: auto;
+        left: 20px;
+        bottom: 20px;
+    }
+    .detail1{
+        font-size: 20px;
+    }
+    .detail2{
+        font-size: 16px;
+    }
+    .tech{
+        height: auto;
+        margin: 50px 0px;
+        padding: 20px 0px;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .tech .item{
+        height: auto;
+        font-size: 22px;
+    }
+    .tech .star{
+        display: none;
+    }
+    .tools{
+        height: auto;
+        padding: 0px 15px;
+        display: flex;
+        flex-direction: column;
+    }
+    .span{
+        height: auto;
+        width: 100%;
+    }
+    .span .craft{
+        height: auto;
+        width: 100%;
+    }
+    .span h2{
+        height: auto;
+        width: 100%;
+        margin-top: 12px;
+        font-size: 32px;
+        letter-spacing: -2px;
+    }
+    .span p{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+        line-height: 20px;
+    }
+    .grid{
+        height: auto;
+        width: 100%;
+        margin-top: 35px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+    .card{
+        box-sizing: border-box;
+        height: 125px;
+        width: 100%;
+        padding: 20px;
+    }
+    .title{
+        font-size: 26px;
+    }
+    .subtitle{
+        font-size: 11px;
+        letter-spacing: 2px;
+    }
+    .section2{
+        height: auto;
+        margin-top: 80px;
+        padding: 0px 15px;
+    }
+    .section2 .flex{
+        height: auto;
+        padding-bottom: 20px;
+    }
+    .flex p{
+        width: 100%;
+        height: auto;
+    }
+    .flex h2{
+        height: auto;
+        width: 100%;
+        font-size: 32px;
+        margin-top: 10px;
+    }
+    .flex .pieces{
+        display: none;
+    }
+    .article1,
+    .article2,
+    .article3
+    {
+        height: auto;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+    }
+    .article1 .image,
+    .article2 .image,
+    .article3 .image{
+        width: 100%;
+        height: 300px;
+    }
+    .personal,
+    .personal2,
+    .personal3{
+        height: auto;
+        width: 100%;
+        margin-top: 0px;
+    }
+    .personal .html,
+    .personal2 .html,
+    .personal3 .html{
+        height: auto;
+        width: 100%;
+    }
+    .html .color1,
+    .html .color2,
+    .html .color3,
+    .html2 .color1,
+    .html2 .color2,
+    .html2 .color3,
+    .html3 .color1,
+    .html3 .color2{
+        height: auto;
+        width: auto;
+        padding: 4px 8px;
+        font-size: 11px;
+    }
+    .personal h3,
+    .personal2 h3,
+    .personal3 h3{
+        height: auto;
+        width: 100%;
+        margin-top: 18px;
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .personal p,
+    .personal2 p,
+    .personal3 p{
+        height: auto;
+        width: 100%;
+        margin-top: 15px;
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .personal a,
+    .personal2 a,
+    .personal3 a{
+        margin-top: 25px;
+    }
+    .section3{
+        height: auto;
+        margin-top: 80px;
+        padding: 0px 15px;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .section3 .about{
+        height: auto;
+        width: 100%;
+    }
+    .about p{
+        height: auto;
+        width: 100%;
+    }
+    .details4{
+        height: auto;
+        width: 100%;
+    }
+    .details4 p{
+        width: 100%;
+        height: auto;
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .details4 .core{
+        height: auto;
+        width: 100%;
+        margin-top: 30px;
+        padding-top: 0px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+    .core .core1,
+    .core .core2,
+    .core .core3{
+        width: 100%;
+        height: auto;
+    }
+    .core .pun{
+        width: 100%;
+        height: auto;
+        font-size: 30px;
+    }
+    .core .jab{
+        width: 100%;
+        height: auto;
+    }
+    .hidden{
+        height: auto;
+        padding: 50px 15px;
+    }
+    .contact{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .contact .span{
+        height: auto;
+        width: 100%;
+    }
+    .contact .span .craft{
+        height: auto;
+        width: 100%;
+    }
+    .contact .span h2{
+        height: auto;
+        width: 100%;
+        margin-top: 12px;
+        font-size: 42px;
+        line-height: 48px;
+    }
+    .contact .span p{
+        height: auto;
+        width: 100%;
+        margin-top: 15px;
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .contact .span a{
+        width: 200px;
+        height: 45px;
+        margin-top: 20px;
+        font-size: 14px;
+    }
+    .link{
+        height: auto;
+        width: 100%;
+        padding-left: 0px;
+        margin-top: 50px;
+        display: block;
+    }
+    .link p{
+        width: 100%;
+        height: auto;
+    }
+    .socials{
+        height: auto;
+        width: 100%;
+        padding-left: 0px;
+        margin-top: 20px;
+    }
+    .socials .else{
+        width: 100%;
+        height: auto;
+        margin-left: 0px;
+    }
+    .socials .git,
+    .socials .link,
+    .socials .twitter{
+        height: 50px;
+        width: 100%;
+        padding: 12px 0px;
+    }
+    .git a,
+    .link a,
+    .twitter a{
+        width: 100%;
+        font-size: 18px;
+    }
+    .git a span,
+    .link a span,
+    .twitter a span{
+        display: flex;
+        justify-content: flex-end;
+        margin-left: 0px;
+    }
+}
